@@ -1,0 +1,8 @@
+{
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "djangointellisense.projectRoot": "${workspaceFolder}",
+    "djangointellisense.settingsModule": "pages_project.settings",
+    "djangointellisense.debugMessages": true,
+}
