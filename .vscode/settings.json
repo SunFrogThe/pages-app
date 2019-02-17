@@ -5,4 +5,5 @@
     "djangointellisense.projectRoot": "${workspaceFolder}",
     "djangointellisense.settingsModule": "pages_project.settings",
     "djangointellisense.debugMessages": true,
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
 }

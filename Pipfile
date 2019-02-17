@@ -5,6 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 pytest-django = "*"
+pylint = "*"
+autopep8 = "*"
 
 [packages]
 django = "*"
