@@ -25,7 +25,7 @@ SECRET_KEY = 'n^w(awd1u1=hm8y%$52m9$t*w2zx(t4*6@ad@9vb4-$n0@ga!f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
